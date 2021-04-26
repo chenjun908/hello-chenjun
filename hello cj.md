@@ -8,4 +8,4 @@
 -:|:-:|:-  
 |陈钧|男|吉林大学|  
 
-[click here](https://github.com/chenjun908/hello-chenjun/README.md)  
+[click here](README.md)  
